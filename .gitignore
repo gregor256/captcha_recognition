@@ -1,3 +1,6 @@
-captcha_dataset
-laba.pdf
 .ipynb_check*
+.venv
+samples/samples/*.png
+samples/samples/*.jpg
+.idea
+*__pycache__*

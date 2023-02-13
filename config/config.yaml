@@ -1,0 +1,5 @@
+input_filepath: "samples/samples"
+model_parameters_filepath: "result_model"
+num_epochs: 150
+letters_amount: 5
+image_rotation_degree: 5
